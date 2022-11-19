@@ -2,7 +2,7 @@
 
 A Vite starter using React, TypeScript, TailwindCSS with HeadlessUI, ESLint, and Prettier. Node 16+ with NPM 8+ is recommended.
 
-# Getting Started
+## Getting Started
 
 Open up `package.json` to see the starter's dependencies or execute `npm list` in the root directory.
 
