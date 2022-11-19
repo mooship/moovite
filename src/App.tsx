@@ -1,11 +1,15 @@
 import './App.css';
 
-function App() {
+const App = () => {
     return (
         <div className='App'>
-            <h1 className='text-3xl font-bold underline'>Hello world!</h1>
+            <div className='flex h-screen'>
+                <div className='m-auto'>
+                    <h1 className='text-4xl font-mono'>Hello world!</h1>
+                </div>
+            </div>
         </div>
     );
-}
+};
 
 export default App;

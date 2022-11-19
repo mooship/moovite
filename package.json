@@ -3,7 +3,6 @@
     "private": true,
     "version": "0.0.1",
     "license": "MIT",
-    "author": "Timothy Brits <brits@fastmail.com> (https://github.com/mooship)",
     "type": "module",
     "scripts": {
         "dev": "vite --open",
