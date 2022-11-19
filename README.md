@@ -22,17 +22,12 @@ View the starter template live [here](https://mooship-vite.onrender.com).
 
 ## Deployment
 
-I recommend that you deploy your app to [Render](https://render.com/). Render can easily integrate with your GitHub account to serve your app using Cloudflare's fast global CDN.
+I recommend that you deploy your app (static site) to [Render](https://render.com/).
 
-<img width="944" alt="image" src="https://user-images.githubusercontent.com/28689428/202850377-b63fb03c-bca2-4062-b380-49ff42b961b3.png">
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/28689428/202850377-b63fb03c-bca2-4062-b380-49ff42b961b3.png">
+
+See Vite's page on static site deployment for more options: [Deploying a Static Site](https://vitejs.dev/guide/static-deploy.html)
 
 ### DevTools
 
 Get the React DevTools extension: [React Developer Tools](https://beta.reactjs.org/learn/react-developer-tools)
-
-### Relevant Docs
-
--   [Headless UI](https://headlessui.com/)
--   [TailwindCSS](https://tailwindcss.com/docs/)
--   [React Docs (beta)](https://beta.reactjs.org/)
--   [Render Docs - Static Sites](https://render.com/docs/static-sites)
