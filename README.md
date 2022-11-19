@@ -6,11 +6,11 @@ View the starter template live [here](https://mooship-vite.onrender.com).
 
 ## Getting Started
 
--   Click `Use This Template` and select `Create a new repository`
--   Clone your new repo
--   Feel free to delete the `.idea` (JetBrains config) or `.vscode` (useful VSCode config) folders
--   Open up `package.json` and review or edit its contents
--   Execute `npm i` in the root of the repo
+- Click `Use This Template` and select `Create a new repository`
+- Clone your new repo
+- Feel free to delete the `.idea` (JetBrains config) or `.vscode` (useful VSCode config) directories
+- Open up `package.json` and review or edit its contents
+- Execute `npm i` in the root of the repo
 
 ## Scripts
 
