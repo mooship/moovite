@@ -16,9 +16,9 @@ View the starter template live [here](https://mooship-vite.onrender.com).
 
 -   Run the app: `npm run dev`
 -   Build the app for production: `npm run build`
--   Lint the app _without fixes_: `npm run lint`
--   Lint the app _with fixes_: `npm run lint:fix`
--   Format the app: `npm run format`
+-   Lint the app using ESLint _without fixes_: `npm run lint`
+-   Lint the app using ESLint _with fixes_: `npm run lint:fix`
+-   Format the app using Prettier: `npm run format`
 
 ### DevTools
 
