@@ -28,3 +28,4 @@ Get the React DevTools extension: [React Developer Tools](https://beta.reactjs.o
 
 -   [Headless UI](https://headlessui.com/) 
 -   [TailwindCSS](https://tailwindcss.com/docs/)
+-   [React Docs (beta)](https://beta.reactjs.org/)
