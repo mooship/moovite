@@ -1,6 +1,6 @@
 # Intro 
 
-⚡ A Vite starter template using React, TypeScript, TailwindCSS with HeadlessUI, ESLint, and Prettier. Node 16+ with NPM 8+ is recommended. This repo also contains useful GitHub Actions you may use to keep.
+⚡ A Vite starter template using React, TypeScript, TailwindCSS with HeadlessUI, ESLint, and Prettier. Node 16+ is recommended. This repo also contains GitHub Actions you may find useful.
 
 View the starter template live [here](https://mooship-vite.onrender.com).
 
