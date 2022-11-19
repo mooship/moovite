@@ -1,12 +1,13 @@
-# Intro
+# Intro 
 
-A Vite starter using React, TypeScript, TailwindCSS with HeadlessUI, ESLint, and Prettier. Node 16+ with NPM 8+ is recommended. This repo also contains useful GitHub Actions.
+⚡ A Vite starter using React, TypeScript, TailwindCSS with HeadlessUI, ESLint, and Prettier. Node 16+ with NPM 8+ is recommended. This repo also contains useful GitHub Actions.
 
 ## Getting Started
 
-Open up `package.json` to see the starter's dependencies or execute `npm list` in the root directory.
-
-To get started execute `npm i` and then `npm run dev` to run the app.
+- Click `Use This Template` and select `Create a new repository`
+- Clone your new repo
+- Open up `package.json` and review its contents
+- Execute `npm i` in the root of the repo
 
 ## Scripts
 
@@ -22,5 +23,5 @@ Get the React DevTools extension: [React Developer Tools](https://beta.reactjs.o
 
 ### Relevant Docs
 
--   [Headless UI](https://headlessui.com/)
+-   [Headless UI](https://headlessui.com/) 
 -   [TailwindCSS](https://tailwindcss.com/docs/)
