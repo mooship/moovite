@@ -5,7 +5,7 @@ const App = () => {
         <div className='App'>
             <div className='flex h-screen'>
                 <div className='m-auto'>
-                    <h1 className='text-4xl font-mono'>Hello world!</h1>
+                    <h1 className='font-mono text-4xl'>Hello world!</h1>
                 </div>
             </div>
         </div>

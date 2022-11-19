@@ -1,4 +1,5 @@
 {
+    "tailwindConfig": "./tailwind.config.cjs",
     "arrowParens": "always",
     "bracketSameLine": false,
     "bracketSpacing": true,
