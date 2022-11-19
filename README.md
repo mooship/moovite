@@ -1,6 +1,6 @@
 # Intro
 
-A Vite starter using React, TypeScript, TailwindCSS with HeadlessUI, ESLint, and Prettier. Node 16+ with NPM 8+ is recommended.
+A Vite starter using React, TypeScript, TailwindCSS with HeadlessUI, ESLint, and Prettier. Node 16+ with NPM 8+ is recommended. This repo also contains useful GitHub Actions.
 
 ## Getting Started
 
