@@ -9,8 +9,8 @@
         "dev:host": "vite --open --host",
         "build": "tsc && vite build",
         "preview": "vite preview",
-        "lint": "npx eslint . --ext .ts,.tsx,.cjs",
-        "lint:fix": "npx eslint . --ext .ts,.tsx,.cjs --fix",
+        "lint": "npx eslint . --ext .ts,.tsx,.cjs,.yml",
+        "lint:fix": "npm run lint --fix",
         "format": "npx prettier . --write",
         "cleanup": "npm run lint:fix && npm run format"
     },
@@ -32,6 +32,7 @@
         "eslint-plugin-prettier": "~4.2.1",
         "eslint-plugin-react": "~7.31.11",
         "eslint-plugin-react-hooks": "~4.6.0",
+        "eslint-plugin-yml": "^1.2.0",
         "postcss": "~8.4.19",
         "postcss-import": "~15.0.0",
         "prettier": "~2.7.1",
