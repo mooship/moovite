@@ -6,7 +6,7 @@
 
 - Click `Use This Template` and select `Create a new repository`
 - Clone your new repo
-- Open up `package.json` and review its contents
+- Open up `package.json` and review or edit its contents
 - Execute `npm i` in the root of the repo
 
 ## Scripts
