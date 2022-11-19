@@ -26,7 +26,7 @@ I recommend that you deploy your app (static site) to [Render](https://render.co
 
 <img width="900" alt="image" src="https://user-images.githubusercontent.com/28689428/202850377-b63fb03c-bca2-4062-b380-49ff42b961b3.png">
 
-See Vite's page on static site deployment for more options: [Deploying a Static Site](https://vitejs.dev/guide/static-deploy.html)
+See Vite's page on [deploying a static site](https://vitejs.dev/guide/static-deploy.html).
 
 ### DevTools
 
