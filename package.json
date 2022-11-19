@@ -10,9 +10,10 @@
         "dev:host": "vite --open --host",
         "build": "tsc && vite build",
         "preview": "vite preview",
-        "lint": "npx eslint . --ext .ts,.tsx,.cjs --fix",
+        "lint": "npx eslint . --ext .ts,.tsx,.cjs",
+        "lint:fix": "npx eslint . --ext .ts,.tsx,.cjs --fix",
         "format": "npx prettier . --write",
-        "cleanup": "npm run lint && npm run format"
+        "cleanup": "npm run lint:fix && npm run format"
     },
     "dependencies": {
         "@headlessui/react": "^1.7.4",
