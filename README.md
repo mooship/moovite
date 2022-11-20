@@ -1,8 +1,6 @@
 # Description
 
-⚡ A Vite starter template using React, TypeScript, TailwindCSS with HeadlessUI, ESLint, and Prettier. Node v16+ is recommended. This repo also contains some GitHub Actions you may find useful.
-
-![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+⚡ A Vite starter template using React, TypeScript, TailwindCSS with HeadlessUI, ESLint, and Prettier. Node v16+ is recommended. This repo also contains some GitHub workflows you may find useful.
 
 View the starter template live [here](https://vite-react-ts-tailwindcss.onrender.com/).
 
