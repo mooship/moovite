@@ -1,7 +1,7 @@
 {
-    "name": "vite-react-ts-tailwind-mooship",
+    "name": "vite-react-ts-tailwindcss",
     "private": true,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "license": "MIT",
     "type": "module",
     "scripts": {

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/vite-react-ts-tailwind-mooship.iml" filepath="$PROJECT_DIR$/.idea/vite-react-ts-tailwind-mooship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vite-react-ts-tailwindcss.iml" filepath="$PROJECT_DIR$/.idea/vite-react-ts-tailwindcss.iml" />
     </modules>
   </component>
 </project>
