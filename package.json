@@ -10,7 +10,7 @@
         "build": "tsc && vite build",
         "preview": "vite preview",
         "lint": "npx eslint . --ext .ts,.tsx,.cjs",
-        "lint:fix": "npm run lint --fix",
+        "lint:fix": "npx eslint . --ext .ts,.tsx,.cjs --fix",
         "format": "npx prettier . --write",
         "cleanup": "npm run lint:fix && npm run format"
     },
