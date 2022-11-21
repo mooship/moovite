@@ -1,6 +1,6 @@
 {
-    "name": "Mooship's Vite Starter Template",
-    "short_name": "Mooship's Starter",
+    "name": "Mooship's Vite + React Starter Template",
+    "short_name": "Mooship's Starter Template",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#242424",
+    "theme_color": "#FACC15",
+    "background_color": "#1E3A8A",
     "display": "standalone"
 }
