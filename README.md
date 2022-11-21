@@ -36,3 +36,9 @@ Get the [React Developer Tools](https://beta.reactjs.org/learn/react-developer-t
 ## License
 
 This starter template is licensed under the [MIT License](https://github.com/mooship/mooship-vite/blob/main/LICENSE).
+
+### Relevant Links
+
+- [TailwindCSS](https://tailwindcss.com/docs/installation)
+- [Headless UI by Tailwind Labs](https://headlessui.com/)
+- [React (beta docs)](https://beta.reactjs.org/)
