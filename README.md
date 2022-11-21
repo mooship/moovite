@@ -21,7 +21,7 @@ View the starter template live [here](https://vite-react-ts-tailwindcss.onrender
 
 ## Deployment
 
-🚀 I recommend you deploy your app (static site) to [Render](https://render.com/).
+🚀 I recommend you deploy your app (static site) via [Render](https://render.com/).
 
 <img width="750" alt="Render deployment config" src="https://user-images.githubusercontent.com/28689428/203065767-2dd74be6-b70d-4520-b596-fbd1dfe59245.png">
 
