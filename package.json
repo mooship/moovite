@@ -9,9 +9,9 @@
         "dev:host": "vite --open --host",
         "build": "tsc && vite build",
         "preview": "vite preview",
-        "lint": "npx eslint . --ext .ts,.tsx,.cjs",
-        "lint:fix": "npx eslint . --ext .ts,.tsx,.cjs --fix",
-        "fmt": "npx prettier . --write",
+        "lint": "eslint . --ext .ts,.tsx,.cjs",
+        "lint:fix": "eslint . --ext .ts,.tsx,.cjs --fix",
+        "fmt": "prettier . --write",
         "cleanup": "npm run lint:fix && npm run fmt"
     },
     "dependencies": {
