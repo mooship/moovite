@@ -1,6 +1,4 @@
-import './App.css';
-
-const App = () => {
+const App = (): JSX.Element => {
     return (
         <div className='App'>
             <div className='flex h-screen'>
