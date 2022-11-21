@@ -41,4 +41,4 @@ This starter template is licensed under the [MIT License](https://github.com/moo
 
 - [TailwindCSS](https://tailwindcss.com/docs/installation)
 - [Headless UI by Tailwind Labs](https://headlessui.com/)
-- [React (beta docs)](https://beta.reactjs.org/)
+- [React](https://beta.reactjs.org/)
