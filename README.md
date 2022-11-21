@@ -8,20 +8,20 @@ View the starter template live [here](https://mooship-vite.onrender.com).
 
 ## Getting Started
 
-- Click `Use This Template` and select `Create a new repository`
-- Clone your newly created repository
-- Feel free to delete the `.idea/` or `.vscode/` config directories
-- Open up `package.json` and review or edit its contents
-- Execute `npm i` in the root of the repo
-- Execute `npm run dev` to run the app
+-   Click `Use This Template` and select `Create a new repository`
+-   Clone your newly created repository
+-   Feel free to delete the `.idea/` or `.vscode/` config directories
+-   Open up `package.json` and review or edit its contents
+-   Execute `npm i` in the root of the repo
+-   Execute `npm run dev` to run the app
 
 ## Scripts
 
-- Run the app: `npm run dev`
-- Build the app for production: `npm run build`
-- Lint the app using ESLint _without fixes_: `npm run lint`
-- Lint the app using ESLint _with fixes_: `npm run lint:fix`
-- Format the app using Prettier: `npm run format`
+-   Run the app: `npm run dev`
+-   Build the app for production: `npm run build`
+-   Lint the app using ESLint _without fixes_: `npm run lint`
+-   Lint the app using ESLint _with fixes_: `npm run lint:fix`
+-   Format the app using Prettier: `npm run format`
 
 ## Deployment
 
