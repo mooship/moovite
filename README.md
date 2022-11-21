@@ -17,8 +17,8 @@ View the starter template live [here](https://vite-react-ts-tailwindcss.onrender
 
 -   Run the app: `npm run dev`
 -   Build the app for production: `npm run build`
--   Lint the app using ESLint _without fixes_: `npm run lint`
--   Lint the app using ESLint _with fixes_: `npm run lint:fix`
+-   Lint the app using ESLint: `npm run lint`
+-   Lint the app using ESLint with the `--fix` flag: `npm run lint:fix`
 -   Format the app using Prettier: `npm run format`
 
 ## Deployment
