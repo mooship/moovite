@@ -11,8 +11,8 @@
         "preview": "vite preview",
         "lint": "npx eslint . --ext .ts,.tsx,.cjs",
         "lint:fix": "npx eslint . --ext .ts,.tsx,.cjs --fix",
-        "format": "npx prettier . --write",
-        "cleanup": "npm run lint:fix && npm run format"
+        "fmt": "npx prettier . --write",
+        "cleanup": "npm run lint:fix && npm run fmt"
     },
     "dependencies": {
         "@headlessui/react": "~1.7.4",
