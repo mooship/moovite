@@ -6,12 +6,12 @@ View the starter template live [here](https://vite-react-ts-tailwindcss.onrender
 
 ## Getting Started
 
-- Click `Use This Template` and select `Create a new repository`
-- Clone your newly created repository
-- Feel free to delete the `.idea/` or `.vscode/` config directories if you don't use WebStorm or VSCode
-- Open up `package.json` and review or edit its contents
-- In the root of the repository, execute `npm i`
-- Now execute `npm run dev` to run the app
+-   Click `Use This Template` and select `Create a new repository`
+-   Clone your newly created repository
+-   Feel free to delete the `.idea/` or `.vscode/` config directories if you don't use WebStorm or VSCode
+-   Open up `package.json` and review or edit its contents
+-   In the root of the repository, execute `npm i`
+-   Now execute `npm run dev` to run the app
 
 ### DevTools
 
@@ -27,8 +27,8 @@ See Vite's page on [deploying a static site](https://vitejs.dev/guide/static-dep
 
 ## Useful Links
 
-- [TailwindCSS](https://tailwindcss.com/docs/installation)
-- [Headless UI by Tailwind Labs](https://headlessui.com/)
+-   [TailwindCSS](https://tailwindcss.com/docs/installation)
+-   [Headless UI by Tailwind Labs](https://headlessui.com/)
 
 ## License
 
