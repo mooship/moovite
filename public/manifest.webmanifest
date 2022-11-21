@@ -1,6 +1,6 @@
 {
-    "name": "Vite + React + TS + TailwindCSS",
-    "short_name": "Vite + React",
+    "name": "Mooship's Vite Starter Template",
+    "short_name": "Mooship's Starter",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
