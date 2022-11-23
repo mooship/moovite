@@ -9,18 +9,12 @@
         "plugin:react/recommended",
         "plugin:react-hooks/recommended",
         "plugin:@typescript-eslint/recommended",
-        "plugin:yml/recommended",
-        "plugin:json/recommended",
         "plugin:jsx-a11y/recommended",
         "plugin:unicorn/recommended",
         "plugin:sonarjs/recommended",
         "prettier"
     ],
     "overrides": [
-        {
-            "files": ["*.yaml", "*.yml"],
-            "parser": "yaml-eslint-parser"
-        }
     ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
@@ -32,8 +26,6 @@
         "react-hooks",
         "@typescript-eslint",
         "jsx-a11y",
-        "yml",
-        "json",
         "unicorn",
         "sonarjs"
     ],

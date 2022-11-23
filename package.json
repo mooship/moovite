@@ -1,7 +1,7 @@
 {
     "name": "vite-react-ts-tailwindcss",
     "private": true,
-    "version": "0.4.0",
+    "version": "0.5.0",
     "license": "MIT",
     "type": "module",
     "scripts": {
@@ -9,8 +9,8 @@
         "dev:host": "vite --open --host",
         "build": "tsc && vite build",
         "preview": "vite preview",
-        "lint": "eslint . --ext .ts,.tsx,.cjs,.yaml,.yml,.json",
-        "lint:fix": "eslint . --ext .ts,.tsx,.cjs,.yaml,.yml,.json --fix",
+        "lint": "eslint . --ext .ts,.tsx,.cjs",
+        "lint:fix": "eslint . --ext .ts,.tsx,.cjs --fix",
         "fmt": "prettier . --write"
     },
     "dependencies": {
@@ -28,22 +28,19 @@
         "autoprefixer": "~10.4.13",
         "eslint": "~8.28.0",
         "eslint-config-prettier": "~8.5.0",
-        "eslint-plugin-json": "~3.1.0",
         "eslint-plugin-jsx-a11y": "~6.6.1",
         "eslint-plugin-prettier": "~4.2.1",
         "eslint-plugin-react": "~7.31.11",
         "eslint-plugin-react-hooks": "~4.6.0",
         "eslint-plugin-sonarjs": "~0.16.0",
         "eslint-plugin-unicorn": "~45.0.0",
-        "eslint-plugin-yml": "~1.2.0",
         "postcss": "~8.4.19",
         "postcss-import": "~15.0.0",
         "prettier": "~2.8.0",
         "prettier-plugin-tailwindcss": "~0.1.13",
         "tailwindcss": "~3.2.4",
         "typescript": "~4.8.4",
-        "vite": "~3.2.3",
-        "yaml-eslint-parser": "~1.1.0"
+        "vite": "~3.2.3"
     },
     "engines": {
         "node": ">=16"
