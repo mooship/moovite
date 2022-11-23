@@ -33,11 +33,9 @@
         "jsx-a11y",
         "json",
         "yml",
-        "unicorn",
-        "prettier"
+        "unicorn"
     ],
     "rules": {
-        "prettier/prettier": ["warn"],
         "react/react-in-jsx-scope": "off",
         "unicorn/prevent-abbreviations": "off"
     },
