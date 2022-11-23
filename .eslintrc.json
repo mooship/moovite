@@ -13,7 +13,7 @@
         "plugin:json/recommended",
         "plugin:jsx-a11y/recommended",
         "plugin:unicorn/recommended",
-        "plugin:eslint-comments/recommended",
+        "plugin:sonarjs/recommended",
         "prettier"
     ],
     "overrides": [
@@ -35,7 +35,7 @@
         "yml",
         "json",
         "unicorn",
-        "eslint-comments"
+        "sonarjs"
     ],
     "rules": {
         "react/react-in-jsx-scope": "off",
