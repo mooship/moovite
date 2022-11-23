@@ -15,10 +15,6 @@ View the starter template live [here](https://vite-react-ts-tailwindcss.onrender
 -   In the root of the repository, execute `npm i` to install the necessary dependencies.
 -   Go ahead and execute `npm run dev` to run the app.
 
-### DevTools
-
-🔧 Get the [React Developer Tools](https://beta.reactjs.org/learn/react-developer-tools) extension for your browser.
-
 ## Deployment
 
 🚀 I recommend you deploy your app (static site) via [Render](https://render.com/).
