@@ -35,8 +35,7 @@
         "yml",
         "json",
         "unicorn",
-        "eslint-comments",
-        "prettier"
+        "eslint-comments"
     ],
     "rules": {
         "react/react-in-jsx-scope": "off",
