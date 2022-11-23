@@ -39,8 +39,7 @@
     ],
     "rules": {
         "react/react-in-jsx-scope": "off",
-        "unicorn/prevent-abbreviations": "off",
-        "prettier/prettier": "warn"
+        "unicorn/prevent-abbreviations": "off"
     },
     "settings": {
         "import/resolver": {
