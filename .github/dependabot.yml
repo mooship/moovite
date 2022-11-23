@@ -3,10 +3,9 @@
 
 version: 2
 updates:
-  - package-ecosystem: "npm"
-    directory: "/"
-    schedule:
-      interval: "daily"
-      day: "saturday"
-      time: "08:00"
-      
+    - package-ecosystem: 'npm'
+      directory: '/'
+      schedule:
+          interval: 'daily'
+          day: 'saturday'
+          time: '08:00'
