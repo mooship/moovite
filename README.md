@@ -1,6 +1,6 @@
 # Description
 
-⚡ A Vite + React starter template featuring TypeScript, TailwindCSS with Headless, ESLint, and Prettier. This repo also contains some GitHub workflows you may find useful.
+⚡ A Vite + React starter template featuring TypeScript, TailwindCSS with Headless UI, ESLint, and Prettier. This repo also contains some GitHub workflows you may find useful.
 
 View the starter template live [here](https://vite-react-ts-tailwindcss.onrender.com/).
 
@@ -14,10 +14,6 @@ View the starter template live [here](https://vite-react-ts-tailwindcss.onrender
 -   Open up `package.json` and review or edit its contents - note the scripts.
 -   In the root of the repository, execute `npm i` to install the necessary dependencies.
 -   Go ahead and execute `npm run dev` to run the app.
-
-### DevTools
-
-🔧 Get the [React Developer Tools](https://beta.reactjs.org/learn/react-developer-tools) extension for your browser.
 
 ## Deployment
 
