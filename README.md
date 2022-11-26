@@ -15,6 +15,8 @@ View the starter template live [here](https://moovite.onrender.com/).
 -   In the root of the repository, execute `npm i` to install the necessary dependencies.
 -   Go ahead and execute `npm run dev` to run the app.
 
+Alternatively, you could also clone or fork this repository.
+
 ## Deployment
 
 🚀 I recommend you deploy your app (static site) via [Render](https://render.com/).
