@@ -2,7 +2,7 @@
     "tailwindConfig": "./tailwind.config.cjs",
     "plugins": [
         "prettier-plugin-tailwindcss",
-        "@trivago/prettier-plugin-sort-imports"
+        "prettier-plugin-organize-imports"
     ],
     "arrowParens": "always",
     "bracketSameLine": false,
@@ -20,8 +20,5 @@
     "singleQuote": true,
     "tabWidth": 4,
     "trailingComma": "es5",
-    "useTabs": false,
-    "importOrder": ["^components/(.*)$", "^[./]"],
-    "importOrderSeparation": true,
-    "importOrderSortSpecifiers": true
+    "useTabs": false
 }
