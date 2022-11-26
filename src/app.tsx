@@ -14,7 +14,7 @@ const App = (): JSX.Element => {
                         viewBox='0 0 16 16'
                     >
                         <a
-                            href='https://github.com/mooship/vite-react-ts-tailwindcss'
+                            href='https://github.com/mooship/moovite'
                             className='fill-yellow-400 hover:fill-gray-300'
                             aria-label='View the source code on GitHub'
                         >

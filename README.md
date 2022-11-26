@@ -2,7 +2,7 @@
 
 ⚡ A Vite + React starter template featuring TypeScript, Tailwind CSS with Headless UI, ESLint, and Prettier. This repo also contains some GitHub workflows you may find useful.
 
-View the starter template live [here](https://vite-react-ts-tailwindcss.onrender.com/).
+View the starter template live [here](https://moovite.vercel.app/).
 
 ## Getting Started
 
