@@ -1,6 +1,6 @@
 {
-    "name": "Mooship's Vite + React Starter Template",
-    "short_name": "Mooship's Starter Template",
+    "name": "Moovite",
+    "short_name": "Moovite",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
