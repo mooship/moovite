@@ -8,7 +8,7 @@ View the starter template live [here](https://moovite.onrender.com).
 
 🚩 Node v16+ is recommended.
 
--   Click `Use This Template` and select `Create a new repository`.
+-   Click `Use this template` and select `Create a new repository`.
 -   Clone your newly created repository.
 -   Feel free to delete the `.idea/` or `.vscode/` config directories if you don't use WebStorm or VSCode.
 -   Open up `package.json` and review or edit its contents - note the scripts.
