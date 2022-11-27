@@ -10,7 +10,6 @@ View the starter template live [here](https://moovite.onrender.com).
 
 -   Click `Use this template` and select `Create a new repository`.
 -   Clone your newly created repository.
--   Feel free to delete the `.idea/` or `.vscode/` user config directories if you don't use WebStorm or VSCode.
 -   Open up `package.json` and review or edit its contents.
 -   In the root of the repository, execute `npm i` to install the necessary dependencies.
 -   Go ahead and execute `npm run dev` to run the app.
