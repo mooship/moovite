@@ -32,4 +32,4 @@ See Vite's page on [deploying a static site](https://vitejs.dev/guide/static-dep
 
 ## License
 
-This starter template is licensed under the [MIT License](https://github.com/mooship/mooship-vite/blob/main/LICENSE).
+This starter template is licensed under the permissive [MIT License](https://github.com/mooship/mooship-vite/blob/main/LICENSE).
