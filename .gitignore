@@ -125,3 +125,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Added because this is a template repository
+# JetBrains
+.idea/
+.fleet/
