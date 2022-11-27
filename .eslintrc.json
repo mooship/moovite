@@ -12,6 +12,7 @@
         "plugin:array-func/recommended",
         "plugin:unicorn/recommended",
         "plugin:jsx-a11y/recommended",
+        "plugin:sonarjs/recommended",
         "prettier"
     ],
     "overrides": [],

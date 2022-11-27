@@ -1,7 +1,7 @@
 {
     "name": "moovite",
     "private": true,
-    "version": "0.6.1",
+    "version": "0.6.2",
     "license": "MIT",
     "type": "module",
     "scripts": {
@@ -27,11 +27,12 @@
         "autoprefixer": "~10.4.13",
         "eslint": "~8.28.0",
         "eslint-config-prettier": "~8.5.0",
-        "eslint-plugin-array-func": "^3.1.7",
+        "eslint-plugin-array-func": "~3.1.7",
         "eslint-plugin-jsx-a11y": "~6.6.1",
         "eslint-plugin-prettier": "~4.2.1",
         "eslint-plugin-react": "~7.31.11",
         "eslint-plugin-react-hooks": "~4.6.0",
+        "eslint-plugin-sonarjs": "~0.16.0",
         "eslint-plugin-unicorn": "~45.0.0",
         "postcss": "~8.4.19",
         "postcss-import": "~15.0.0",
