@@ -127,6 +127,8 @@ dist
 .pnp.*
 
 # Added because this is a template repository
+# Feel free to remove
 # JetBrains
 .idea/
 .fleet/
+.vscode/
