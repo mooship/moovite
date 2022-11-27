@@ -1,7 +1,7 @@
 {
     "name": "moovite",
     "private": true,
-    "version": "0.6.2",
+    "version": "0.7.0",
     "license": "MIT",
     "type": "module",
     "scripts": {
@@ -29,6 +29,7 @@
         "eslint-config-prettier": "~8.5.0",
         "eslint-plugin-array-func": "~3.1.7",
         "eslint-plugin-jsx-a11y": "~6.6.1",
+        "eslint-plugin-no-secrets": "~0.8.9",
         "eslint-plugin-prettier": "~4.2.1",
         "eslint-plugin-react": "~7.31.11",
         "eslint-plugin-react-hooks": "~4.6.0",
