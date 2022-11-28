@@ -6,7 +6,7 @@ View the starter template live [here](https://moovite.onrender.com).
 
 ## Getting Started
 
-🚩 Node v16+ is required, but v18+ is recommended.
+🚩 Node v16+ is required.
 
 -   Click `Use this template` and select `Create a new repository`.
 -   Clone your newly created repository.
