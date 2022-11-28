@@ -3,15 +3,18 @@
     "private": true,
     "version": "0.7.0",
     "license": "MIT",
+    "engines": {
+        "node": ">=16"
+    },
     "type": "module",
     "scripts": {
         "dev": "vite --open",
         "dev:host": "vite --open --host",
         "build": "tsc && vite build",
         "preview": "vite preview",
-        "lint": "eslint . --ext .ts,.tsx,.cjs",
-        "lint:fix": "eslint . --ext .ts,.tsx,.cjs --fix",
-        "fmt": "prettier . --write"
+        "lint": "npx eslint . --ext .ts,.tsx,.cjs",
+        "lint:fix": "npx eslint . --ext .ts,.tsx,.cjs --fix",
+        "fmt": "npx prettier . --write"
     },
     "dependencies": {
         "@headlessui/react": "~1.7.4",

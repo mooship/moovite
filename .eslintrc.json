@@ -26,6 +26,9 @@
         "no-secrets/no-secrets": "error"
     },
     "settings": {
+        "import/resolver": {
+            "typescript": {}
+        },
         "react": {
             "version": "detect"
         }
