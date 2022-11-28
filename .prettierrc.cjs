@@ -1,6 +1,9 @@
 module.exports = {
     tailwindConfig: './tailwind.config.cjs',
-    plugins: ['prettier-plugin-tailwindcss', 'prettier-plugin-organize-imports'],
+    plugins: [
+        'prettier-plugin-tailwindcss',
+        'prettier-plugin-organize-imports',
+    ],
     arrowParens: 'always',
     bracketSameLine: false,
     bracketSpacing: true,
@@ -9,7 +12,7 @@ module.exports = {
     htmlWhitespaceSensitivity: 'css',
     insertPragma: false,
     jsxSingleQuote: true,
-    printWidth: 100,
+    printWidth: 80,
     proseWrap: 'preserve',
     quoteProps: 'as-needed',
     requirePragma: false,
