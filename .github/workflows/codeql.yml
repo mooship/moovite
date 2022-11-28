@@ -1,4 +1,4 @@
-name: 'CodeQL'
+name: "CodeQL"
 
 on:
     push:
@@ -6,7 +6,7 @@ on:
     pull_request:
         branches: [main]
     schedule:
-        - cron: '0 9 * * 6'
+        - cron: "0 9 * * 6"
 
 jobs:
     CodeQL-Build:
