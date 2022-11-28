@@ -3,10 +3,10 @@
     "private": true,
     "version": "0.7.0",
     "license": "MIT",
+    "type": "module",
     "engines": {
         "node": ">=16"
     },
-    "type": "module",
     "scripts": {
         "dev": "vite --open",
         "dev:host": "vite --open --host",
