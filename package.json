@@ -12,8 +12,8 @@
         "dev:host": "vite --open --host",
         "build": "tsc && vite build",
         "preview": "vite preview",
-        "lint": "npx eslint . --ext .ts,.tsx,.cjs",
-        "lint:fix": "npx eslint . --ext .ts,.tsx,.cjs --fix",
+        "lint": "npx eslint . --ext .ts,.tsx,.cjs,.yml,.yaml",
+        "lint:fix": "npx eslint . --ext .ts,.tsx,.cjs,.yml,.yaml --fix",
         "fmt": "npx prettier . --write"
     },
     "dependencies": {
@@ -38,6 +38,7 @@
         "eslint-plugin-react-hooks": "~4.6.0",
         "eslint-plugin-sonarjs": "~0.16.0",
         "eslint-plugin-unicorn": "~45.0.0",
+        "eslint-plugin-yml": "~1.2.0",
         "postcss": "~8.4.19",
         "postcss-import": "~15.0.0",
         "prettier": "~2.8.0",
@@ -45,6 +46,7 @@
         "prettier-plugin-tailwindcss": "~0.2.0",
         "tailwindcss": "~3.2.4",
         "typescript": "~4.8.4",
-        "vite": "~3.2.3"
+        "vite": "~3.2.3",
+        "yaml-eslint-parser": "~1.1.0"
     }
 }

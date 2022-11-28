@@ -3,7 +3,7 @@ const App = (): JSX.Element => {
         <div className='App'>
             <div className='flex h-screen bg-blue-900'>
                 <div className='m-auto'>
-                    <h1 className='mb-8 rounded border-4 border border-yellow-400 pt-4 pr-4 pb-4 pl-4 font-mono text-4xl text-gray-300'>
+                    <h1 className='mb-8 rounded border-4 border border-yellow-400 p-4 font-mono text-4xl text-gray-300'>
                         Hello world!
                     </h1>
                     <svg

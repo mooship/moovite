@@ -13,7 +13,14 @@
         "plugin:unicorn/recommended",
         "plugin:sonarjs/recommended",
         "plugin:jsx-a11y/recommended",
+        "plugin:yml/standard",
         "prettier"
+    ],
+    "overrides": [
+        {
+            "files": ["*.yaml", "*.yml"],
+            "parser": "yaml-eslint-parser"
+        }
     ],
     "parser": "@typescript-eslint/parser",
     "parserOptions": {
