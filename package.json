@@ -13,7 +13,7 @@
         "build": "tsc && vite build",
         "preview": "vite preview",
         "lint": "npx eslint . --ext .ts,.tsx,.cjs,.yml,.yaml",
-        "lint:fix": "npx eslint . --ext .ts,.tsx,.cjs,.yml,.yaml --fix",
+        "lint:fix": "npm run lint --fix && npm run fmt",
         "fmt": "npx prettier . --write"
     },
     "dependencies": {
