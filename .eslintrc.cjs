@@ -30,6 +30,7 @@ module.exports = {
     plugins: [],
     rules: {
         "react/react-in-jsx-scope": "off",
+        "unicorn/prevent-abbreviations": "off",
     },
     settings: {
         "import/resolver": {
