@@ -27,10 +27,9 @@ module.exports = {
         ecmaVersion: "latest",
         sourceType: "module",
     },
-    plugins: ["no-secrets"],
+    plugins: [],
     rules: {
         "react/react-in-jsx-scope": "off",
-        "no-secrets/no-secrets": "error",
     },
     settings: {
         "import/resolver": {
