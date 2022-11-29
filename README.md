@@ -17,7 +17,7 @@ View the starter template live [here](https://moovite.onrender.com).
 Alternatively, you could also clone this repository:
 
 ```text
-  git clone https://github.com/mooship/moovite
+git clone https://github.com/mooship/moovite
 ```
 
 ## Deployment
@@ -32,6 +32,7 @@ See Vite's page on [deploying a static site](https://vitejs.dev/guide/static-dep
 
 -   [Tailwind CSS](https://tailwindcss.com/docs/installation)
 -   [Headless UI by Tailwind Labs](https://headlessui.com/)
+-   [React Docs](https://headlessui.com/](https://beta.reactjs.org/)
 
 ## License
 
