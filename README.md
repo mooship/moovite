@@ -12,11 +12,7 @@ View the starter template live [here](https://moovite.onrender.com).
 
 ## Deployment
 
-I suggest you deploy your app (static site) with [Render](https://render.com/).
-
-<img width="700" alt="Render deployment options" src="https://user-images.githubusercontent.com/28689428/203065767-2dd74be6-b70d-4520-b596-fbd1dfe59245.png">
-
-🚀 See Vite's page on [deploying a static site](https://vitejs.dev/guide/static-deploy.html) for more deployment options.
+🚀 See Vite's page on [deploying a static site](https://vitejs.dev/guide/static-deploy.html)
 
 ## Useful Links
 
