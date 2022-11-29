@@ -22,7 +22,7 @@ See Vite's page on [deploying a static site](https://vitejs.dev/guide/static-dep
 
 -   [Tailwind CSS](https://tailwindcss.com/docs/installation)
 -   [Headless UI by Tailwind Labs](https://headlessui.com/)
--   [React Docs](https://headlessui.com/](https://beta.reactjs.org/)
+-   [React Docs](https://beta.reactjs.org/)
 
 ## License
 
