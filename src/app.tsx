@@ -1,7 +1,7 @@
 const App = (): JSX.Element => {
     return (
         <div className="App">
-            <div className="flex h-screen bg-stone-900">
+            <div className="flex h-screen bg-neutral-900">
                 <div className="m-auto">
                     <h1 className="mb-8 rounded border border-yellow-400 p-4 font-mono text-4xl text-gray-300">
                         Hello world!
