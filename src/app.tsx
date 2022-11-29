@@ -1,16 +1,16 @@
 const App = (): JSX.Element => {
     return (
         <div className="App">
-            <div className="flex h-screen bg-blue-900">
+            <div className="flex h-screen bg-stone-900">
                 <div className="m-auto">
-                    <h1 className="mb-8 rounded border-4 border border-yellow-400 p-4 font-mono text-4xl text-gray-300">
+                    <h1 className="mb-8 rounded border border-yellow-400 p-4 font-mono text-4xl text-gray-300">
                         Hello world!
                     </h1>
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="64"
                         height="64"
-                        className="m-auto mt-8"
+                        className="m-auto"
                         viewBox="0 0 16 16">
                         <a
                             href="https://github.com/mooship/moovite"
