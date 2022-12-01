@@ -17,7 +17,6 @@ View the starter template live [here](https://moovite.onrender.com).
 ## Useful Links
 
 -   [Tailwind CSS](https://tailwindcss.com/docs/installation)
--   [Headless UI by Tailwind Labs](https://headlessui.com/)
 -   [React Docs](https://beta.reactjs.org/)
 
 ## License
