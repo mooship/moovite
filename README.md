@@ -1,6 +1,6 @@
 # Description
 
-⚡ A Vite + React starter template featuring TypeScript, Tailwind CSS & Headless UI, ESLint & Prettier, and some useful GitHub Actions.
+⚡ A Vite + React starter template featuring TypeScript, Tailwind CSS, ESLint & Prettier, and some useful GitHub Actions.
 
 View the starter template live [here](https://moovite.onrender.com).
 
