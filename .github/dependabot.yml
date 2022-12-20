@@ -11,4 +11,6 @@ updates:
       directory: "/"
       schedule:
           interval: "daily"
+          day: "saturday"
           time: "09:00"
+          timezone: "Africa/Johannesburg"
